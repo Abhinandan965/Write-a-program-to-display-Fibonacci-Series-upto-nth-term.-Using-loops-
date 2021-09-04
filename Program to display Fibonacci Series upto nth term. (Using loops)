@@ -1,0 +1,28 @@
+#include<iostream>
+
+using namespace std;
+
+ int main()
+{
+
+int num, first=0, second=1, next;
+
+cout<<"Enter the number of terms to be printed in the fibonacci series"<<end1;
+
+cin>>num;
+
+cout<<"Fibonacci series:"<<end1;
+
+for (int i=0; i<num; i++)
+
+{
+
+  cout<<first<<end1;
+
+  next = first+second;
+
+  first second;
+
+  second = next;
+
+}
